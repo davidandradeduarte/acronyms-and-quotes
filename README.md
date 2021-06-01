@@ -28,3 +28,9 @@ https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
 
 ## 12 factor app (methodology)
 https://12factor.net/
+
+## Point of no return (PNR) / Point of Safe Return (PSR)
+https://en.wikipedia.org/wiki/Point_of_no_return
+
+## Brook's law
+https://en.wikipedia.org/wiki/Brooks%27s_law
