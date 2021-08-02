@@ -34,3 +34,6 @@ https://en.wikipedia.org/wiki/Point_of_no_return
 
 ## Brook's law
 https://en.wikipedia.org/wiki/Brooks%27s_law
+
+## No news is good news
+https://dictionary.cambridge.org/dictionary/english/no-news-is-good-news
