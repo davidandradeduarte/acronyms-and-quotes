@@ -37,3 +37,6 @@ https://en.wikipedia.org/wiki/Brooks%27s_law
 
 ## No news is good news
 https://dictionary.cambridge.org/dictionary/english/no-news-is-good-news
+
+## What I cannot create, I do not understand
+https://freshspectrum.com/richard-feynman-what-i-cannot-create-i-do-not-understand/
