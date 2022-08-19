@@ -40,3 +40,7 @@ https://dictionary.cambridge.org/dictionary/english/no-news-is-good-news
 
 ## What I cannot create, I do not understand
 https://freshspectrum.com/richard-feynman-what-i-cannot-create-i-do-not-understand/
+
+## Make it work, make it right, make it fast
+https://quotefancy.com/quote/1663435/Kent-Beck-Make-it-work-make-it-right-make-it-fast  
+https://miro.medium.com/max/1400/1*Kad041pGlj6sP_RO6O_tdA.jpeg
